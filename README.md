@@ -1,7 +1,7 @@
 ### <div align="center">I'm Rodrigo, a back end developer working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working at [Infosys Technologies](https://www.infosys.com)  
+- 🔭 I’m currently working at GE Digital as part of [GE Vernova](https://www.gevernova.com)  
   
 
 - 🌱 I’m currently going more deeper on Data Structures and Algorithms  
